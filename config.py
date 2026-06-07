@@ -1,5 +1,5 @@
 # Конфігурація підключення до платіжного шлюзу Stripe та AWS
-GITHUB_TOKEN = "ghp_abcdefghijklmnopqrstuvwxyz1234567890ABCDEF"
+GITHUB_TOKEN = "ghp_1234567890abcdefghijklmnopqrstuvwxyzABCDEFG"
 AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE"
 
 AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
